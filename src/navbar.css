@@ -1,0 +1,61 @@
+@media screen and (max-width:900px){
+    .wid{
+      width:50%;
+    }
+   
+   
+  }
+
+
+.wid{
+    width: 1520px;
+    height: 50px;
+    margin-top: -23px;
+
+}
+.left_content{
+    float: left;
+}
+.icon_up{
+    margin-top: -2px;
+    size: 15px;
+}
+
+
+h4.next{
+    float: left;
+    color: darkgrey;
+    padding-left: 20px;
+    margin-top: 15px;
+}
+.mr-auto{
+    font-size: 15px;
+    float: left;
+}
+.left_icons{
+    display: flex;
+    flex-direction: row;
+   
+}
+.icon{
+    width: 35px;
+    height: 50px;
+    margin-right: 10px;
+    color: gray;
+}
+.flex1{
+    display: flex;
+    flex-direction: row;
+    width: 1500px;
+}
+
+.right_icons{
+    float: right;
+    margin-top: 20px;
+    margin-left: 1150px;
+    width: 30px;
+    display: flex;
+    flex-direction: row;
+    margin-right: 10px;
+
+}

@@ -1,0 +1,31 @@
+.Navbar{
+    width: 100%;
+    height: 60px;
+    background-color: grey;
+    margin-top: -25px;
+}
+.flexleft{
+    display: flex;
+    flex-direction: row;
+    margin-left:10px;
+    float: left;
+}
+.left{
+    margin-left:10px ;
+    margin-top: 10px;
+}
+
+.left_icons{
+    display: flex;
+    flex-direction: row;
+    float: right;
+    margin-right: 20px;
+    margin-top: 10px;
+   
+}
+@media(max-width: 900px){
+    .Navbar{
+        width: 100%;
+
+    }
+}
